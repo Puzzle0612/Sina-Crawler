@@ -10,8 +10,8 @@ Selenium+Python
 **使用说明：**    
 1.提示输入用户ID，为移动端的如下图地址：  
 ![](/GetID.png)  
-2.需要在系统变量下设置浏览器路径（默认用的Chrome）     
-3.需要在ID.conf中填入登入账号和密码  
+2.需要在系统变量下设置浏览器路径（默认用的Chrome）  
+  3.需要在ID.conf中填入登入账号和密码  
 ![](/IDConfig.png)  
 4.完成后会生成一个txt（例子中result.txt为局座招忠的所有微博）和你的登陆账号发一条微博  
 ![](/WeiboSent.png) 
